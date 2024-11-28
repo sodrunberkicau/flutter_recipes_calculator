@@ -1,6 +1,4 @@
-# flutter_recipes_calculator
-
-A new Flutter project.
+Flutter Recipes Calculator for completing mobile applications development 1
 
 ## Getting Started
 
